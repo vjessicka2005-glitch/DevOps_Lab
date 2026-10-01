@@ -1,3 +1,4 @@
+Commands:
 git --version
 mkdir devops-git
 cd devops-git
